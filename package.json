@@ -1,0 +1,15 @@
+{
+  "name": "bafk",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+  "dev": "node app.js",
+  "build": "next build",
+  "start": "NODE_ENV=production node app.js"
+  },
+  "dependencies": {
+    "next": "10.0.6",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  }
+}
